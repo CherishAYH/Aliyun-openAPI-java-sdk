@@ -1,5 +1,5 @@
 # Alibaba Cloud Java Software Development Kit
-[中文文档](./README_zh.md)
+[中文文档](./README.md)
 
 The Alibaba Cloud Software Development Kit Java (SDK) allows you to access Alibaba Cloud services such as Elastic Compute Service (ECS), Server Load Balancer (SLB), and CloudMonitor. You can access Alibaba Cloud services without the need to handle API related tasks, such as signing and constructing your requests.
 
